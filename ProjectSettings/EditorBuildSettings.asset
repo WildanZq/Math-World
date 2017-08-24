@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0bf8c2b265d5a444b944de333b1e7463
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel.unity
+    guid: a2fd37e5493a77c40addbf3a5ec8c1b6
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: 4d301aba0aa8d3845ba5314d2a303bac
+  - enabled: 1
+    path: Assets/Scenes/TataSurya.unity
+    guid: 6b9cd535867096649aab04e9d8737ad3
+  - enabled: 1
+    path: Assets/Scenes/Rumus.unity
+    guid: 119fdc04eb32cf74a865489e7de9bce0
+  - enabled: 1
+    path: Assets/Scenes/Pilihan Game.unity
+    guid: c34637742f1867d49ad056cbf3d643fe
+  - enabled: 1
+    path: Assets/Scenes/Endless.unity
+    guid: a8e9896fe312d9e488c9c85fe83dc688
+  - enabled: 1
+    path: Assets/Scenes/GamePlay2.unity
+    guid: ff2541dbdd68c3c47981b4fa8088e8de
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 4d2a1953e6867824691bb517a0a6e332
+  - enabled: 1
+    path: Assets/Scenes/Story1.unity
+    guid: 9523b6c8cf8862c42b44c8baff81e7c9
+  - enabled: 1
+    path: Assets/Scenes/Chapter0.unity
+    guid: 351d340fb0509ad4c8c0ada221d6876a
